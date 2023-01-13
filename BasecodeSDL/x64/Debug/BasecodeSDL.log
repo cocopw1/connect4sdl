@@ -1,0 +1,6 @@
+﻿  Game.c
+C:\Users\comem\Desktop\BasecodeSDL\BasecodeSDL\Game.c(253,33): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\comem\Desktop\BasecodeSDL\BasecodeSDL\Game.c(254,33): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\comem\Desktop\BasecodeSDL\BasecodeSDL\Game.c(261,33): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\comem\Desktop\BasecodeSDL\BasecodeSDL\Game.c(262,33): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  BasecodeSDL.vcxproj -> C:\Users\comem\Desktop\BasecodeSDL\x64\Debug\BasecodeSDL.exe
